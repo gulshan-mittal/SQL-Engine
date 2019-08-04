@@ -5,7 +5,7 @@ An SQL Engine for running basic SQL queries using CLI where data is stored in th
 * **Method 1 :** 
    * `./setup.sh or sh setup.sh`
    * `./run.sh`
-   * "<Enter queries>"
+   * "Enter queries"
 
 * **Method 2 :** 
    * `./setup.sh or sh setup.sh`
